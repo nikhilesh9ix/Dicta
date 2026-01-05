@@ -1,6 +1,6 @@
-# WhispNote
+# Dicta
 
-WhispNote is a modern, minimal, and magical speech-to-text note-taking web application. It features a beautiful interface with glassmorphism and neumorphism design elements, creating an elegant and intuitive user experience.
+Dicta is a modern, minimal, and magical speech-to-text note-taking web application. It features a beautiful interface with glassmorphism and neumorphism design elements, creating an elegant and intuitive user experience.
 
 ## Features
 
