@@ -1,6 +1,6 @@
-# WhispNote 🎤
+# Dicta
 
-A modern, elegant speech-to-text note-taking web application with beautiful glassmorphism and neumorphism design. Capture your thoughts effortlessly by speaking, with real-time transcription and intelligent note management.
+A modern, elegant speech-to-text note-taking web application with beautiful glasmorphism and neumorphism design. Capture your thoughts effortlessly by speaking, with real-time transcription and intelligent note management.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
