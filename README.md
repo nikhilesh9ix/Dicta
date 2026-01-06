@@ -2,6 +2,8 @@
 
 A modern, elegant speech-to-text note-taking web application with beautiful glasmorphism and neumorphism design. Capture your thoughts effortlessly by speaking, with real-time transcription and intelligent note management.
 
+🔗 **[Live Demo](https://dicta-navy.vercel.app/)**
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![HTML5](https://img.shields.io/badge/HTML5-E34C26?logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
@@ -168,7 +170,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👤 Author
 
-**Nikhilesh Rao** - [GitHub Profile](https://github.com/nikhilesh9ix)
+**Nikhilesh** - [GitHub Profile](https://github.com/nikhilesh9ix)
 
 Created as a Project-Based Learning (PBL) assignment for Web Technologies.
 
