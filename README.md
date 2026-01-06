@@ -162,18 +162,7 @@ Dicta/
 - [ ] Note sharing capabilities
 - [ ] Offline mode enhancement
 
-## 📚 Learning Outcomes
-
-This project demonstrates:
-- Modern Web APIs (Web Speech API)
-- Advanced CSS techniques (Glassmorphism, Neumorphism, Animations)
-- Vanilla JavaScript best practices
-- Responsive web design
-- Local storage management
-- Event handling and DOM manipulation
-- Audio playback integration
-
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
